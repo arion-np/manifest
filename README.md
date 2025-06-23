@@ -26,7 +26,7 @@ $ repo sync
 
 ### Environment Variables
 ```
-$ export PATH=$PATH:/opt/gcc-linaro-7.3.1-2018.05-i686_aarch64-elf/bin
+$ export PATH=$PATH:/opt/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-elf/bin
 ```
 
 ### Build
