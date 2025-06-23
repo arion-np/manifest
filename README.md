@@ -25,6 +25,13 @@ $ repo sync
 ```
 
 ### Environment Variables
+#### Download U-boot build toolchain
+[u-boot toolchain](http://ednanet.synology.me/amlogic/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-elf.tar)
+
+```
+$ tar xf gcc-linaro-7.5.0-2019.12-x86_64_aarch64-elf.tar
+$ sudo mv gcc-linaro-7.5.0-2019.12-x86_64_aarch64-elf /opt
+```
 ```
 $ export PATH=$PATH:/opt/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-elf/bin
 ```
