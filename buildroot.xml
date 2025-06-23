@@ -14,7 +14,8 @@
     <project name="arion-np/uboot-repo" path="bootloader/uboot-repo" clone-depth="1" />
     <project name="arion-np/buildroot" path="buildroot" clone-depth="1" />
     <project name="arion-np/hardware" path="hardware" clone-depth="1" />
-    <project name="arion-np/kernel" path="kernel/aml-5.4" clone-depth="1" />
+    <project name="arion-np/aml-5.4" path="kernel/aml-5.4" clone-depth="1" />
+    <project name="arion-np/aml-6.6" path="kernel/aml-6.6" clone-depth="1" />
     <project name="arion-np/multimedia" path="multimedia" clone-depth="1" />
     <project name="arion-np/vendor" path="vendor" clone-depth="1" />
     <project name="arion-np/toolchain_arm_gcc-arm-10.3-x86_64-arm"
