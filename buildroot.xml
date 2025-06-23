@@ -18,6 +18,7 @@
     <project name="arion-np/aml-6.6" path="kernel/aml-6.6" clone-depth="1" />
     <project name="arion-np/multimedia" path="multimedia" clone-depth="1" />
     <project name="arion-np/vendor" path="vendor" clone-depth="1" />
+    <project name="arion-np/aml-patches" path="aml-patches" clone-depth="1" />
     <project name="arion-np/toolchain_arm_gcc-arm-10.3-x86_64-arm"
 	     path="toolchain/gcc/linux-x86/arm/gcc-arm-10.3-2021.07-x86_64-arm-none-linux-gnueabihf"
              clone-depth="1" />
