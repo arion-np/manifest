@@ -77,3 +77,7 @@ asplay enable-input AIRPLAY
 asplay enable-input AVS
 ```
 
+#### asplay file playback
+```
+$ asplay ./test.mp3 halaudio
+```
